@@ -501,12 +501,6 @@ const works = [
         uris: 'http://knyajevo.ru'
     },
     {
-        title: 'Адмирал',
-        images: '../assets/images/works/admiral.png',
-        content: 'Сайт Адмирала',
-        uris: 'http://nn-admiral.ru'
-    },
-    {
         title: 'Сюрреализм дня',
         images: '../assets/images/works/romaklik.jpg',
         content: 'Сюрреализм дня - сайт художника и поэта.',
