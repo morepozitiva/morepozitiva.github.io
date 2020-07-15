@@ -1,2 +1,2 @@
 # Просто позитивный
-[](https://i.imgur.com/JF8wADl.png)
+![](https://i.imgur.com/JF8wADl.png)
