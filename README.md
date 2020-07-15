@@ -1,2 +1,2 @@
 # Просто позитивный
-!(https://upload.wikimedia.org/wikipedia/commons/8/85/Smiley.svg)
+!(https://pbs.twimg.com/profile_images/435786497195667456/jH2qAIg5_400x400.jpeg)
